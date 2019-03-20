@@ -6,11 +6,11 @@ import flyingRocket from './image/skillbg.jpg';
 
 const styles = {
   layout: {
-    display: 'flex',
+     display: 'flex',
     flexDirection: 'row',
     flexWrap: 'wrap',
     justifyContent: 'center',
-    // alignItems: 'center',
+    alignItems: 'center',
     margin: 'auto',
   },
   topSkill: {

@@ -3,7 +3,7 @@ const projectList = [
   {
     name: 'Thetraining.in',
     type: 'PRE FINAL YEAR INTERNSHIP PROJECT',
-    tech: 'HTML, CSS, REACT JS, NODE JS, MONGODB ',
+    tech: 'HTML, CSS, ANGULAR JS, NODE JS, MONGODB ',
     picture: require('../image/thetraining_logo.svg'),
     description: 'It is a web portal where the students can assess themselves for NEET examination.',
     live: 'https://thetraining.in/#/secure/dashboard',

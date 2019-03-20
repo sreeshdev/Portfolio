@@ -8,7 +8,7 @@ const eduList = [
     link: 'https://www.kongu.ac.in/',
   },
   {
-    schoolName: 'Sowdambikaa Matriculation Higer Secondary Scool',
+    schoolName: 'Sowdambikaa Matriculation Higer Secondary School',
     program: 'HSC',
     date: '2013 - 2015',
     mark: 'Percentage : 88.6%',
@@ -16,7 +16,7 @@ const eduList = [
     link: 'http://sowthuraiyur.edu.in/',
   },
   {
-    schoolName: 'Sowdambikaa Matriculation Higer Secondary Scool',
+    schoolName: 'Sowdambikaa Matriculation Higer Secondary School',
     program: 'SSLC',
     date: '2012-2013',
     mark: 'Percentage : 85.25%',

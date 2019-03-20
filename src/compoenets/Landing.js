@@ -1,6 +1,8 @@
 import React, { Component } from 'react';
 import { Animated } from 'react-animated-css';
 import Sreelogo from './image/sree logo.svg';
+import './aboutStyle.css';
+
 
 const style = {
   landing: {
@@ -10,6 +12,7 @@ const style = {
     alignItems: 'center',
     width: '100vw',
     margin: 'auto',
+
 //     overflow: 'hidden',
 //     width: '100%',
 // height: '100%',
@@ -100,7 +103,7 @@ class Landing extends Component {
             animationInDelay={500}
             style={style.textStyle}
           >
-            <h1 className="f-subheadline">
+            <h1 className="f-subheadline measure tex">
               Sreenaath <span style={style.textHighLight}>Vaithiyanathan </span>
             </h1>
           </Animated>
