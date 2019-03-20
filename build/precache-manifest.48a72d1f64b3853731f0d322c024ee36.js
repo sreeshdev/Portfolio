@@ -1,19 +1,19 @@
 self.__precacheManifest = [
   {
-    "revision": "bc0176f25ea33aeb5338",
-    "url": "/portfolio/static/css/main.176444eb.chunk.css"
+    "revision": "a9f0d3db566cc543fcb1",
+    "url": "/portfolio/static/css/main.dbd947fc.chunk.css"
   },
   {
-    "revision": "bc0176f25ea33aeb5338",
-    "url": "/portfolio/static/js/main.3ab2cc9d.chunk.js"
+    "revision": "a9f0d3db566cc543fcb1",
+    "url": "/portfolio/static/js/main.2ceaf4aa.chunk.js"
   },
   {
     "revision": "53ebc025fca807d4dbea",
     "url": "/portfolio/static/js/runtime~main.f308c8e6.js"
   },
   {
-    "revision": "78700644d2c1f9c21ef1",
-    "url": "/portfolio/static/js/2.ba6cc00b.chunk.js"
+    "revision": "47fceebe0cfd45eff2f2",
+    "url": "/portfolio/static/js/2.19990ee4.chunk.js"
   },
   {
     "revision": "53219bab9cdd0812294d354cb07f9ab8",
@@ -24,8 +24,8 @@ self.__precacheManifest = [
     "url": "/portfolio/static/media/sree logo.607b4d39.svg"
   },
   {
-    "revision": "1090920ba35b38565356638528f2792b",
-    "url": "/portfolio/static/media/Me.1090920b.jpg"
+    "revision": "ad7971ad0091f87f6141a36ba1066c5d",
+    "url": "/portfolio/static/media/Me.ad7971ad.jpg"
   },
   {
     "revision": "a787d9152cca35ce0324b17807ee644c",
@@ -40,7 +40,7 @@ self.__precacheManifest = [
     "url": "/portfolio/static/media/thetraining_logo.ad965d6f.svg"
   },
   {
-    "revision": "3f180720e839637c389b940277b86e92",
+    "revision": "c47642c9ef196d14e5e03f3e40f6c6f4",
     "url": "/portfolio/index.html"
   }
 ];
