@@ -5,7 +5,7 @@
   "homepage": "http://sreeshdev.github.io/portfolio",
   "engines": {
     "node": "10.x"
-  }
+  },
   "dependencies": {
     "react": "^16.5.2",
     "react-animated-css": "^1.0.4",
