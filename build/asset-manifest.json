@@ -1,19 +1,21 @@
 {
-  "main.css": "/portfolio/static/css/main.dbd947fc.chunk.css",
-  "main.js": "/portfolio/static/js/main.2ceaf4aa.chunk.js",
-  "main.js.map": "/portfolio/static/js/main.2ceaf4aa.chunk.js.map",
-  "runtime~main.js": "/portfolio/static/js/runtime~main.f308c8e6.js",
-  "runtime~main.js.map": "/portfolio/static/js/runtime~main.f308c8e6.js.map",
-  "static/js/2.19990ee4.chunk.js": "/portfolio/static/js/2.19990ee4.chunk.js",
-  "static/js/2.19990ee4.chunk.js.map": "/portfolio/static/js/2.19990ee4.chunk.js.map",
-  "index.html": "/portfolio/index.html",
-  "precache-manifest.48a72d1f64b3853731f0d322c024ee36.js": "/portfolio/precache-manifest.48a72d1f64b3853731f0d322c024ee36.js",
-  "service-worker.js": "/portfolio/service-worker.js",
-  "static/css/main.dbd947fc.chunk.css.map": "/portfolio/static/css/main.dbd947fc.chunk.css.map",
-  "static/media/Me.jpg": "/portfolio/static/media/Me.ad7971ad.jpg",
-  "static/media/icon.png": "/portfolio/static/media/icon.53219bab.png",
-  "static/media/ket1.png": "/portfolio/static/media/ket1.a787d915.png",
-  "static/media/skillbg.jpg": "/portfolio/static/media/skillbg.bec227d3.jpg",
-  "static/media/sree logo.svg": "/portfolio/static/media/sree logo.607b4d39.svg",
-  "static/media/thetraining_logo.svg": "/portfolio/static/media/thetraining_logo.ad965d6f.svg"
+  "files": {
+    "main.css": "/portfolio/static/css/main.6885ce1e.chunk.css",
+    "main.js": "/portfolio/static/js/main.36b568bb.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.36b568bb.chunk.js.map",
+    "runtime~main.js": "/portfolio/static/js/runtime~main.f308c8e6.js",
+    "runtime~main.js.map": "/portfolio/static/js/runtime~main.f308c8e6.js.map",
+    "static/js/2.a2cb28a7.chunk.js": "/portfolio/static/js/2.a2cb28a7.chunk.js",
+    "static/js/2.a2cb28a7.chunk.js.map": "/portfolio/static/js/2.a2cb28a7.chunk.js.map",
+    "index.html": "/portfolio/index.html",
+    "precache-manifest.843ff57fb8d90d18aa192d691c415b5a.js": "/portfolio/precache-manifest.843ff57fb8d90d18aa192d691c415b5a.js",
+    "service-worker.js": "/portfolio/service-worker.js",
+    "static/css/main.6885ce1e.chunk.css.map": "/portfolio/static/css/main.6885ce1e.chunk.css.map",
+    "static/media/Me.jpg": "/portfolio/static/media/Me.25816d50.jpg",
+    "static/media/icon.png": "/portfolio/static/media/icon.53219bab.png",
+    "static/media/ket1.png": "/portfolio/static/media/ket1.a787d915.png",
+    "static/media/skillbg.jpg": "/portfolio/static/media/skillbg.bec227d3.jpg",
+    "static/media/slogo.png": "/portfolio/static/media/slogo.6c4158ae.png",
+    "static/media/thetraining_logo.svg": "/portfolio/static/media/thetraining_logo.ad965d6f.svg"
+  }
 }
