@@ -4,7 +4,7 @@
   "private": true,
   "homepage": "http://sreeshdev.github.io/portfolio",
   "engines": {
-    "node": "10.16.0"
+    "node": "10.x"
   }
   "dependencies": {
     "react": "^16.5.2",
