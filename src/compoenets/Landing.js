@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 import { Animated } from 'react-animated-css';
-import Sreelogo from './image/sree logo.svg';
+import Sreelogo from './image/slogo.png';
 import './aboutStyle.css';
 
 
